@@ -1,1 +1,4 @@
-![Gerard's github stats](https://github-readme-stats.vercel.app/api?username=gerardcl&show_icons=true&title_color=0869D6&icon_color=636363&text_color=9f9f9f&bg_color=fff)
+<p align="center">
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=gerardcl&show_icons=true&theme=dark"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardcl&layout=compact&langs_count=10&theme=dark"/>
+</p>
