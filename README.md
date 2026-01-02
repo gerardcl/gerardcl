@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardcl&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=gerardcl&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -31,6 +31,7 @@
 ### 🤝 Let's Connect!
 <p align="left">
 <a href="https://linkedin.com/in/gerardcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardcl" height="30" width="40" /></a>
+<a href="https://fosstodon.org/@gerardcl" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="bljubisic" height="30" width="40" /></a>
 </p>
 
 <br />
